@@ -1,5 +1,6 @@
 # pyTedee
-Simple python script to manage Tedee lock
+Simple python script to manage Tedee lock.
+Tested on config with one lock and one bridge.
 
 Copy config.py.dist and put there your login and password to your tedee account.
 

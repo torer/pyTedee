@@ -7,7 +7,7 @@ Copy config.py.dist and put there your login and password to your tedee account.
 Simple usage:
 Get attibutes:
 ```
- pyTedee.py --attr [attribute_name] [lock_name]
+ pyTedee.py --attr [attribute_name] --name [lock_name]
       attribute_name :
         - state:
           2 = open
@@ -22,7 +22,7 @@ Get attibutes:
 ```
 Opnening and closing:
 ```
-  pyTedee.py --action [action_name] [lock_name]
+  pyTedee.py --action [action_name] --name [lock_name]
     lock_name:
       - Name of your lock
     action_name:

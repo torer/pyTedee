@@ -1,4 +1,4 @@
 tedee_config = {
   'login' : '',
-  'haslo' : '',
+  'password' : '',
 }
